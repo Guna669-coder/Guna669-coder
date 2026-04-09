@@ -9,6 +9,8 @@
 [![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)](https://javascript.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gunasekhar%20Nalabolu-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunasekhar-nalabolu-aa057b324)
+
 </div>
 
 ---
@@ -19,6 +21,7 @@
 - 🌱 Learning more about **machine learning** and **web development**
 - ⚡ I love building projects that combine AI with real-world problems
 - 📍 Based in **Hyderabad, India**
+- 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/gunasekhar-nalabolu-aa057b324)**
 
 ---
 
